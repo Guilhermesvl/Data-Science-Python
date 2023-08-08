@@ -10,3 +10,4 @@ novaImagem = img[0:182] #Exibe apenas os elementos 0 a 181 da matriz
 plt.imshow(novaImagem)
 
 plt.savefig('imagemSalva.png')  #Salva a nova imagem cortada
+
